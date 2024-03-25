@@ -1,0 +1,8 @@
+node_modules
+dist
+.cypress
+.git
+.gitignore
+Dockerfile
+.dockerignore
+README.md
