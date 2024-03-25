@@ -2,6 +2,11 @@
 
 This project is a back-office user-management system developed with React and TypeScript. It integrates with the mocked REST API _[Reqres](https://reqres.in/)_ to provide user management functionalities.
 
+## Live Demo
+
+[View the live demo ↗.](https://challenge-app.onrender.com)
+
+
 ## Features
 
 - **User Authentication:** Allows users to register and sign in.
